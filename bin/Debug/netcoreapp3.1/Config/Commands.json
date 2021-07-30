@@ -1,0 +1,13 @@
+{
+  "Commands": [
+    {
+      "Name": "Command",
+      "Description": "Executes a Command",
+      "Options": [
+        "Option 1",
+        "Option 2",
+        "Option 3"
+      ] 
+    }
+  ]
+}
